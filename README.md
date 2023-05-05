@@ -1,6 +1,6 @@
 ## About the project 
 
-    * It is a basic html and css project.
+    *It is a basic html and css project.
 
 ## Tools used 
 
@@ -22,4 +22,4 @@
 
 ## Production Link
 
-    quiz-app-eight-gamma.vercel.app
+https://quiz-app-eight-gamma.vercel.app/
